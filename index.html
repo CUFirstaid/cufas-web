@@ -1,0 +1,42 @@
+---
+layout: default
+title: Home
+---
+
+<!-- Main jumbotron for signup -->
+<div class="jumbotron">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-sm-auto mx-auto mx-md-0" style="width:100%;max-width:220px;max-height:220px;">
+                <img class="img-fluid" style="max-height:100%" src="assets/images/logo-fill.png" alt="Logo" role="img"
+                    aria-label="logo" />
+            </div>
+            <div class="col-sm ml-0 ml-md-3 mt-3 mt-sm-0 ">
+                <h1 class="display-5" style="color:rgb(0, 122, 83)">Cambridge Universities First Aid Society</h1>
+                <p>CUFAS is a student society open to members from
+                    Cambridge University and Anglia Ruskin University</p>
+                <a class="btn btn-secondary btn-lg" style="background: rgb(7, 30, 72);" href="become-member" role="button">Become a member &raquo;</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+
+    <div class="row">
+        {% include snippets/thumbcard.html imgsrc="assets/images/termcard-snapshot.png" description="Our termcard for Michaelmas term 2020." button="Download the termcard" buttonhref="assets/cufas-termcard.pdf" %}
+
+        {% include snippets/thumbcard.html description="We provide first-aid training for SJA members, non-members and organisations." button="Learn more" buttonhref="training" heading="Training" %}
+
+        {% include snippets/thumbcard.html heading="Events" description="We take on a wide range of events, including most May Balls and June Events. If you would like your event to be covered by SJA, do so below." button="Request event cover" buttonhref="https://dips.sja.org.uk/customer/CreateDutyCustomer.asp?county=EER" %}
+    </div>
+
+    <hr class="featurette-divider">
+
+    {% include snippets/featurette.html pheading="Home away from home. " sheading="Uma casa mais perto de ti." description="CUPor brings the local Portuguese community as well as those interested in Portuguese culture together. It began humbly as three friends watching football together with <em>Sagres</em>, of course. We've grown and had some great times since!" imgsrc="assets/images/social-1.jpeg" %}
+
+    <hr class="featurette-divider">
+
+    {% include snippets/featurette.html pheading="Established in 2019, welcoming all since. " sheading="Começámos em 2019, sempre de braços abertos." description="Any member of the University of Cambridge, staff or student, can join us and come to one of our many events, even if you don't speak portuguese! We don't charge membership fees thanks to the generosity of our sponsors." reverse=true imgsrc="assets/images/social-2.jpeg" %}
+
+</div>

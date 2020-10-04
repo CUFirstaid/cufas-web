@@ -1,5 +1,5 @@
 ---
-layout: default-cont
+layout: text
 title: Constitution
 ---
 

@@ -1,5 +1,6 @@
 url: 'https://cufas.co.uk' # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: '' # the subpath of your site, e.g. /blog
+destination: ../public_html
 title: 'CUFAS' # the name of your site, e.g. ACME Corp.
 tagline: Cambridge Universities First Aid Society
 description: CUFAS is a student society open to members from

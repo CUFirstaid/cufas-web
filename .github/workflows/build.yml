@@ -7,7 +7,7 @@ jobs:
     steps:
     - uses: appleboy/ssh-action@master
       env:
-        PATH: $PATH:$HOME/bin/
+        PATH: "$PATH:$HOME/bin"
       with:
         host: webserver.srcf.net
         username: ${{ secrets.USERNAME }}

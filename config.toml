@@ -1,0 +1,16 @@
+baseURL = "https://cufas.co.uk"
+languageCode = "en-us"
+title = "CUFAS"
+disableKinds = ["taxonomy", "term"]
+
+[params]
+    description = "CUFAS is a student society open to members from Cambridge University and Anglia Ruskin University. We are a SJA Cambridge Universities Unit."
+
+[menu]
+
+    [[menu.main]]
+
+    identifier = "society"
+    name = "Society"
+    pre = "<i class='fa fa-fw fa-info-circle me-1'></i>"
+    weight = 3

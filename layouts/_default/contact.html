@@ -1,0 +1,53 @@
+{{ define "main" }}
+<div class="container my-4">
+
+    <div class="row">
+        <div class="col">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">Join our mailing list</h5>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">The entire committee can be reached at <a href="mailto:firstaid-committee@srcf.net">firstaid-committee@srcf.net</a> and more specific contacts are <a href="committee">here.</a></p>
+                    <p class="card-text">We post events and useful information to our mailing list. This is the primary
+                        way to stay in touch with everything about CUFAS.</p>
+                    <form method="post" action="https://lists.cam.ac.uk/mailman/subscribe/soc-cufas-interested">
+                        <div class="mb-3">
+                            <label class="form-label" for="exampleInputEmail1">Your E-mail address</label>
+                            <input type="email" class="form-control" id="exampleInputEmail1"
+                                aria-describedby="emailHelp" name="email" placeholder="Enter email" value="" >
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" for="exampleInputEmail2"> Your Name (optional)</label>
+                            <input name="fullname" class="form-control" id="exampleInputEmail2"
+                                aria-describedby="emailHelp" placeholder="Enter name"  value="">
+                        </div>
+
+                        <button name="email-button" type="submit" class="btn btn-primary">Subscribe</button>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">Stay in touch on social media</h5>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">We also post events on Facebook so you can more easily track them and show your
+                        interest. Our Facebook group provides an open forum for discussion.</p>
+                    <ul class="fa-ul mb-0">
+                        <li><i class="fa fa-li fa-facebook-official"></i><a
+                                href="http://www.facebook.com/cufirstaidsoc"></i> Facebook page</a>
+                        </li>
+                        <li><i class="fa fa-li fa-twitter"></i><a
+                            href="https://twitter.com/SJACambUnis"></i> Twitter page</a>
+                    </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

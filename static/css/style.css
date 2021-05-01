@@ -1,0 +1,53 @@
+.navbar-brand {
+  font-weight: 600;
+  font-size: 2rem;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.jumbotron {
+  background-color: #e9ecef;
+  margin-bottom: 1.5rem;
+  padding: 2rem 1rem;
+}
+
+.footer {
+  background-color: lightgray;
+}
+
+.featurette-divider {
+  margin: 1.5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  line-height: 1;
+  letter-spacing: -0.05rem;
+}
+
+@media (min-width: 40em) {
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+.cupor-profile {
+  margin: 0 auto;
+  height: 100%;
+  width: 100%;
+  max-width: 180px;
+  max-height: 180px;
+  object-fit: cover;
+}
+
+.bg-green {
+  background-color: rgb(165, 193, 172);
+}
+
+.bg-red {
+  background-color: rgb(89, 24, 54);
+}
+
+.fa-li {
+  top: 0.225rem !important;
+}

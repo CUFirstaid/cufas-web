@@ -1,0 +1,26 @@
+# template
+
+# - heading:
+#   description:
+#   button:
+#   button_link:
+#   image:
+
+- heading: Termcard
+  description: Our termcard for Michaelmas term 2020.
+  button: Download the termcard
+  button_link: cufas-termcard.pdf
+  image: images/termcard-snapshot.png
+
+- heading: Training
+  description: We provide first-aid training for SJA members, non-members and organisations.
+  button: Learn more
+  button_link: training
+  image:
+
+- heading: Events
+  description: We take on a wide range of events, including most May Balls and June Events. If you would like your event to be covered by SJA, do so below.
+  button: Request event cover
+  button_link: https://dips.sja.org.uk/customer/CreateDutyCustomer.asp?county=EER
+  image:
+

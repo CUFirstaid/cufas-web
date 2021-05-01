@@ -1,0 +1,83 @@
+- position: Chair
+  image: images/committee/esmae.png
+  name: Esmae Woods
+  description: The chair is responsible for the overall running of the unit.  Please address all serious issues and complaints, including those of a potentially sensitive or confidential nature, to the Chair. You may also just say hello.
+  email: chair
+  mobile: 07894 937364
+
+- position: Human Resources Lead
+  image:
+  name: Natasha Kowshik
+  description: The HR Lead is responsible for all the administration associated with membership. If you’re interested in becoming a St John Ambulance member, or simply a member of CUFAS, then get in touch with them. No amount of paperwork or bureaucracy fazes them!
+  email: hrlead
+  mobile:
+
+- position: Events Co-ordinator
+  image: images/committee/emma.png
+  name: Emma Dinnage
+  description: Our Events Co-Ordinator is responsible for arranging first aid cover. Keep an eye out for her weekly emails of available duties and let her know what you can cover. Keep Kathleen smiling and go on duties!
+  email: events
+  mobile:
+
+- position: Stores & Equipment Manager
+  image: images/committee/esmae.png
+  name: Esmae Woods
+  description: Our Stores & Equipment Manager organises the purchasing and upkeep of our training and medical equipment. She also orders and distributes the Service Delivery Uniforms. If we need something, Esmae gets it!
+  email: equipment
+  mobile:
+
+- position: Training Lead
+  image:
+  name: Vianca Shah
+  description: On the CUFAS side, our Training Lead is responsible for organising our Tuesday meetings and informal training to other societies and groups. On the SJA  side, she is responsible for organising the training of our members. Numerous SJA courses will regularly be advertised to our members via our internal mailing lists. Please keep an eye out for these, or contact Vianca for any course you are interested in. You ask, she will arrange!
+  email: training
+  mobile:
+
+- position: Training Lead
+  image:
+  name: Dawud Afzal
+  description: On the CUFAS side, our Training Lead is responsible for organising our Tuesday meetings and informal training to other societies and groups. On the SJA  side, she is responsible for organising the training of our members. Numerous SJA courses will regularly be advertised to our members via our internal mailing lists. Please keep an eye out for these, or contact Dawud for any course you are interested in. You ask, he will arrange!
+  email: training
+  mobile:
+
+- position: Secretary
+  image: images/committee/elisabeth.png
+  name: Elisabeth 'Lizzie' Jones
+  description: The Secretary is responsible for the public face of both St John Ambulance Cambridge Universities Unit and CUFAS. This includes arranging our presence at Freshers’ Fairs and other recruitment events, managing our online presence, and organising our amazing social events.
+  email: secretary
+  mobile:
+
+- position: Treasurer
+  image:
+  name: Kelly Li
+  description: The Treasurer is responsible for managing the finances for CUFAS. Contact Kelly regarding internal financial matters, membership payments for CUFAS and reimbursement of expenses. Kelly has the money!
+  email: treasurer
+  mobile:
+
+- position: Webmaster
+  image:
+  name: Matias Silva
+  description: The Webmaster is responsible for generally managing the website, Facebook group and various pieces of infrastructure the committee uses to make things happen. CUFAS has the technology, and Matias has the passwords.
+  email: webmaster
+  mobile:
+
+- position: Publicity Officer
+  image:
+  name: Vacant
+  description: The Publicity Officer takes charge of CUFAS and Cambridge Universities Unit's online presence, including our Facebook and Twitter accounts. Whenever there's a story to be told, they will be on it - maybe one of their posts led you to us?
+  email: publicity
+  mobile:
+
+- position: General Committee Member
+  image:
+  name: Ross Clarke
+  description: The general committee members help the rest of the committee to do their jobs. Whether that is helping while others are particularly busy or by leading important tasks like our annual Majax. They do things. Generally.
+  email: general
+  mobile:
+
+- position: London Liaison Officer
+  image: images/committee/sooriyamohan.png
+  name: Sooriyamohan 'Mohan' Mohanakumar
+  description: We regularly have members who graduate and move to London, yet once you’re in SJA, it’s hard to leave! Having previously served on our Core Committee, Mohan is now based in London and helps guide our members to transition into London SJA. He also gives us the heads up on exciting upcoming duties down there.
+  email: 
+  mobile:

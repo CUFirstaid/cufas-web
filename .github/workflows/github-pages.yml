@@ -1,15 +1,15 @@
-name: Build and deploy Jekyll site to GitHub Pages
-
-on:
-  push:
-    branches:
-      - master
-
+name: Clean, update and build website
+on: [push]
 jobs:
-  github-pages:
-    runs-on: ubuntu-20.04
+  build:
+    name: Execute on sinkhole
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: helaili/jekyll-action@2.0.4
-        env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+    - uses: appleboy/ssh-action@master
+      with:
+        host: webserver.srcf.net
+        username: ${{ secrets.USERNAME }}
+        key: ${{ secrets.KEY }}
+        script: |
+          cd ~/firstaid/cufas-web
+          make

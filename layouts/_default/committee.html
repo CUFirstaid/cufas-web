@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <div class="container my-4">
+    <h1>
+      CUFAS's committee for
+      {{ now.Format "2006" }}-{{ sub (int (now.Format "2006")) 1 }}
+    </h1>
+    <p>
+      Find the contact details of the most appropriate committee member to get
+      in touch with here. If in doubt
+      <a href="{{ ref . "contact" }}">contact the entire committee.</a>
+    </p>
+    <div class="row">
+      {{ range $member := .Site.Data.committee }}
+        {{ $args := merge $member (dict "ctx" $)}}
+        {{ partial "committee/profile.html" $args }}
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

@@ -1,9 +1,9 @@
 RewriteEngine On
 
 # redirect non www to www
-RewriteCond %{HTTP_HOST} ^cufas.co.uk [NC]
-RewriteRule ^(.*)$ http://www.cufas.co.uk/$1 [L,R=301]
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
 
 # enforce https
 RewriteCond %{HTTPS} !=on
-RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
+RewriteRule ^/?(.*) https://%{HTTP_HOST}/$1 [R,L]

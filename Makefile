@@ -1,12 +1,13 @@
-BUILDDIR ?= ../public_html/
+BUILDDIR ?= ../public_html
 CACHEDIR = $(shell mktemp -d)
 
 all: clean update build
 
 .PHONY: build
 build:
-	hugo -d $(BUILDDIR) --cacheDir $(CACHEDIR)
-	rm -rf $(CACHEDIR)  
+	hugo --cacheDir $(CACHEDIR)
+	rm -rf $(CACHEDIR)
+	mv public/* $(BUILDDIR)/
 
 .PHONY: clean
 clean:

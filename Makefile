@@ -11,7 +11,7 @@ build:
 
 .PHONY: clean
 clean:
-	rm -rf $(BUILDDIR)
+	rm -rf $(BUILDDIR)/*
 
 .PHONY: update
 update:

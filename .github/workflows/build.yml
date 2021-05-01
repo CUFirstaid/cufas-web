@@ -6,10 +6,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: appleboy/ssh-action@master
+      env:
+        PATH: $PATH:$HOME/bin/
       with:
         host: webserver.srcf.net
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.KEY }}
+        envs: PATH
         script: |
           cd ~/firstaid/cufas-web
           make

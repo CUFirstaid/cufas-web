@@ -1,6 +1,6 @@
 # CUFAS web
 
-This repository houses Cambridge Universities First Aid Society's website (CUFAS). It is built with Hugo and served on Student-Run Computing Facility's webserver, sinkhole.
+This repository houses Cambridge Universities First Aid Society's (CUFAS) website. It is built with Hugo and served on Student-Run Computing Facility's webserver, sinkhole.
 
 ## Building
 

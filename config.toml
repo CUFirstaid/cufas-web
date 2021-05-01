@@ -1,4 +1,4 @@
-baseURL = "https://cufas.co.uk"
+baseURL = "https://www.cufas.co.uk"
 languageCode = "en-us"
 title = "CUFAS"
 disableKinds = ["taxonomy", "term"]

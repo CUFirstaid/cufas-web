@@ -8,21 +8,21 @@
 - position: Human Resources Lead
   image:
   name: Natasha Kowshik
-  description: The HR Lead is responsible for all the administration associated with membership. If you’re interested in becoming a St John Ambulance member, or simply a member of CUFAS, then get in touch with them. No amount of paperwork or bureaucracy fazes them!
+  description: The HR Lead is responsible for all the administration associated with membership. If you’re interested in becoming a St John Ambulance member, or simply a member of CUFAS, then get in touch with Natasha. No amount of paperwork or bureaucracy fazes them!
   email: hrlead
   mobile:
 
 - position: Events Co-ordinator
   image: images/committee/emma.png
   name: Emma Dinnage
-  description: Our Events Co-Ordinator is responsible for arranging first aid cover. Keep an eye out for her weekly emails of available duties and let her know what you can cover. Keep Kathleen smiling and go on duties!
+  description: Our Events Co-Ordinator is responsible for arranging first aid cover. Keep an eye out for her weekly emails of available duties and let her know what you can cover. Keep Emma smiling and go on duties!
   email: events
   mobile:
 
 - position: Stores & Equipment Manager
-  image: images/committee/esmae.png
-  name: Esmae Woods
-  description: Our Stores & Equipment Manager organises the purchasing and upkeep of our training and medical equipment. She also orders and distributes the Service Delivery Uniforms. If we need something, Esmae gets it!
+  image: 
+  name: Vacant
+  description: Our Stores & Equipment Manager organises the purchasing and upkeep of our training and medical equipment. They also order and distribute the Service Delivery Uniforms. If we need something, they gets it!
   email: equipment
   mobile:
 
@@ -36,7 +36,7 @@
 - position: Training Lead
   image:
   name: Dawud Afzal
-  description: On the CUFAS side, our Training Lead is responsible for organising our Tuesday meetings and informal training to other societies and groups. On the SJA  side, she is responsible for organising the training of our members. Numerous SJA courses will regularly be advertised to our members via our internal mailing lists. Please keep an eye out for these, or contact Dawud for any course you are interested in. You ask, he will arrange!
+  description: On the CUFAS side, our Training Lead is responsible for organising our Tuesday meetings and informal training to other societies and groups. On the SJA  side, he is responsible for organising the training of our members. Numerous SJA courses will regularly be advertised to our members via our internal mailing lists. Please keep an eye out for these, or contact Dawud for any course you are interested in. You ask, he will arrange!
   email: training
   mobile:
 
@@ -73,11 +73,4 @@
   name: Ross Clarke
   description: The general committee members help the rest of the committee to do their jobs. Whether that is helping while others are particularly busy or by leading important tasks like our annual Majax. They do things. Generally.
   email: general
-  mobile:
-
-- position: London Liaison Officer
-  image: images/committee/sooriyamohan.png
-  name: Sooriyamohan 'Mohan' Mohanakumar
-  description: We regularly have members who graduate and move to London, yet once you’re in SJA, it’s hard to leave! Having previously served on our Core Committee, Mohan is now based in London and helps guide our members to transition into London SJA. He also gives us the heads up on exciting upcoming duties down there.
-  email: 
   mobile:

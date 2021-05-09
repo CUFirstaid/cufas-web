@@ -1,19 +1,16 @@
-BUILDDIR ?= ../public_html
-INPUTDIR = public
+BUILDDIR ?= public
 CACHEDIR = $(shell mktemp -d)
 
 all: clean update build
 
 .PHONY: build
 build:
-	hugo --cacheDir $(CACHEDIR)
+	hugo -d $(BUILDDIR) --cacheDir $(CACHEDIR) --noTimes
 	rm -rf $(CACHEDIR)
-	mv $(INPUTDIR)/* $(BUILDDIR)/
-	mv $(INPUTDIR)/.[!.]* $(BUILDDIR)/
+
 
 .PHONY: clean
 clean:
-	rm -rf $(INPUTDIR)/*
 	rm -rf $(BUILDDIR)/*
 
 .PHONY: update

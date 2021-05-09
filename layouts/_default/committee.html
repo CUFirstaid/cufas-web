@@ -1,7 +1,8 @@
 {{ define "main" }}
   <div class="container my-4">
     <h1>
-      CUFAS's committee for {{ now.Format "2006" }}-{{ add (int (now.Format "2006")) 1 }}
+      {{ $start_year := index .Site.Params "committee_start_year"}}
+      CUFAS's committee for {{$start_year}}-{{add $start_year 1}}
     </h1>
     <p>
       Find the contact details of the most appropriate committee member to get

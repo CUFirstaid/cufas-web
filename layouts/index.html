@@ -1,50 +1,50 @@
 {{ define "main" }}
-
-<!-- Main jumbotron for signup -->
-<div class="jumbotron">
-  <div class="container">
-    <div class="row align-items-center">
-      <div
-        class="col-sm-auto mx-auto mx-md-0"
-        style="width: 100%; max-width: 220px; max-height: 220px"
-      >
-        <img
-          class="img-fluid"
-          style="max-height: 100%"
-          src="{{.Site.BaseURL}}/images/logo-trans.png"
-          alt="Logo"
-          role="img"
-          aria-label="logo"
-        />
-      </div>
-      <div class="col-sm ms-0 ms-md-3 mt-3 mt-sm-0">
-        <h1 class="display-5" style="color: rgb(0, 122, 83)">
-          Cambridge Universities First Aid Society
-        </h1>
-        <p>
-          {{ .Site.Params.description }}
-        </p>
-        <a
-          class="btn btn-secondary btn-lg"
-          style="background: rgb(7, 30, 72)"
-          href="become-member"
-          role="button"
-          >Become a member &raquo;</a
+  <!-- Main jumbotron for signup -->
+  <div class="jumbotron">
+    <div class="container">
+      <div class="row align-items-center">
+        <div
+          class="col-sm-auto mx-auto mx-md-0"
+          style="width: 100%; max-width: 220px; max-height: 220px"
         >
+          <img
+            class="img-fluid"
+            style="max-height: 100%"
+            src="{{ .Site.BaseURL }}/images/logo-trans.png"
+            alt="Logo"
+            role="img"
+            aria-label="logo"
+          />
+        </div>
+        <div class="col-sm ms-0 ms-md-3 mt-3 mt-sm-0">
+          <h1 class="display-5" style="color: rgb(0, 122, 83)">
+            Cambridge Universities First Aid Society
+          </h1>
+          <p>
+            {{ .Site.Params.description }}
+          </p>
+          <a
+            class="btn btn-secondary btn-lg"
+            style="background: rgb(7, 30, 72)"
+            href="become-member"
+            role="button"
+            >Become a member &raquo;</a
+          >
+        </div>
       </div>
     </div>
   </div>
-</div>
 
-<div class="container">
-  <div class="row">
-    {{ range $thumbcard := .Site.Data.thumbcards}} {{ partial
-    "landing/thumbcard.html" . }} {{ end }}
+  <div class="container">
+    <div class="row">
+      {{ range $thumbcard := .Site.Data.thumbcards }}
+        {{ partial "landing/thumbcard.html" . }}
+      {{ end }}
+    </div>
+
+    {{ range $featurette := .Site.Data.featurettes }}
+      <hr class="featurette-divider" />
+      {{ partial "landing/featurette.html" . }}
+    {{ end }}
   </div>
-
-  {{ range $featurette := .Site.Data.featurettes }}
-  <hr class="featurette-divider" />
-  {{ partial "landing/featurette.html" . }} {{ end }}
-</div>
-
 {{ end }}

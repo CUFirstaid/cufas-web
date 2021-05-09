@@ -1,4 +1,4 @@
-name: Clean, update and build website
+name: Update website
 on: [push]
 jobs:
   build:
@@ -13,4 +13,4 @@ jobs:
         script: |
           cd ~/firstaid/cufas-web
           export PATH=$PATH:$HOME/bin
-          make
+          make BUILDDIR=../public_html

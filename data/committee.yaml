@@ -21,8 +21,15 @@
 
 - position: Stores & Equipment Manager
   image:
-  name: Vacant
-  description: Our Stores & Equipment Manager organises the purchasing and upkeep of our training and medical equipment. They also order and distribute the Service Delivery Uniforms. If we need something, they get it!
+  name: Yousef Maait
+  description: Our Stores & Equipment Manager organises the purchasing and upkeep of our training and medical equipment. If we need something, they get it!
+  email: equipment
+  mobile:
+  
+- position: Stores & Equipment Manager
+  image:
+  name: Sam Turner
+  description: Our Stores & Equipment Manager organises the purchasing and upkeep of our training and medical equipment. If we need something, they get it!
   email: equipment
   mobile:
 

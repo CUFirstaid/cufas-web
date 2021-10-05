@@ -9,7 +9,7 @@
 - heading: Termcard
   description: Our termcard for Michaelmas term 2021.
   button: Download the termcard
-  button_link: cufas-termcard.pdf
+  button_link: pdfs/cufas-termcard.pdf
   image: images/termcard-snapshot.png
 
 - heading: Training

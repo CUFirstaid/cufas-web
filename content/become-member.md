@@ -9,7 +9,7 @@ The first step to getting involved in CUFAS is by joining our mailing list. You 
 
 ## Become a member of CUFAS
 
-Becoming a member of CUFAS is easy and allows access to all the benefits it provides. These include coming to our Tuesday meetings and our social events. All it requires is being a member of the University of Cambridge, Anglia Ruskin University or Cambridge Regional College. For 2020-2021, membership is free.
+Becoming a member of CUFAS is easy and allows access to all the benefits it provides. These include coming to our Tuesday meetings and our social events. All it requires is being a member of the University of Cambridge, Anglia Ruskin University or Cambridge Regional College. For 2021-2022, membership is £5.
 
 To become a member of CUFAS, you should [email the chair]({{< ref "committee" >}}).
 

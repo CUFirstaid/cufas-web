@@ -12,7 +12,7 @@ menu:
 
 We take on a wide range of events, including most May Balls and June Events, giving you a great way to get in and experience the atmosphere of some of the country’s most exclusive events.
 
-We also regularly cover the local nightclubs, which can be a great way to get experience with some interesting casualties. Cambridge Universities Unit also provides cover for the Lent and May Bumps; if you train up as a cycle responder you’ll get a great view of the action!
+Cambridge Universities Unit also provides cover for the Lent and May Bumps; if you train up as a cycle responder you’ll get a great view of the action!
 
 Our members also get the opportunity to help with regionally and nationally organised duties. Recently, these have included the London Marathon, Wimbledon, Brighton Pride and the RiZE Festival (formerly V Festival).
 
@@ -22,17 +22,16 @@ May Week is the biggest week of the year for Cambridge Universities Unit as we c
 
 ## Event Cover For Event Organisers
 
-> This page is for Cambridge Universities Unit, a unit of St John Ambulance based in Cambridge. If you are seeking first aid cover elsewhere, please use the [St John Ambulance national website](https://www.cufas.co.uk/event-cover/www.sja.org.uk).
+> This page is for Cambridge Universities Unit, a unit of St John Ambulance based in Cambridge. If you are seeking first aid cover, please use the [St John Ambulance national website](https://www.sja.org.uk/what-we-do/our-first-aid-services/event-first-aid-cover/dips-form/).
 
 ### First Aid cover for events
 
-St John Ambulance is able to provide first aid cover for events, ranging from small fairs and fetes, through club nights and college balls, right up to large music festivals and sporting events with thousands of spectators. [The Health and Safety Executive](http://www.hse.gov.uk/) provides information to people who are planning events which will be open to members of the public, and provides advice on the approximate extent to which first aid cover will be required. Based on the information you provide us with our [events co-ordinator](committee) should be able to advise you on what we would consider an appropriate level of first aid cover for your event and provide you with a quote for this cover.
+St John Ambulance is able to provide first aid cover for events, ranging from small fairs and fetes, through club nights and college balls, right up to large music festivals and sporting events with thousands of spectators. [The Health and Safety Executive](http://www.hse.gov.uk/) provides information to people who are planning events which will be open to members of the public, and provides advice on the approximate extent to which first aid cover will be required. Based on the information you provide St John with, they'll be able to advise an appropriate level of first aid cover for your event. 
 
 ### How can I arrange First Aid cover for my event?
 
-Just head to [this form](https://dips.sja.org.uk/customer/CreateDutyCustomer.asp?county=EER) on the St John Ambulance website.
+Just head to [this form](https://www.sja.org.uk/what-we-do/our-first-aid-services/event-first-aid-cover/dips-form/) on the St John Ambulance website.
 
-If you wish to discuss anything in advance, please contact our [events co-ordinator](committee).
 
 ### Do I need first aid cover?
 

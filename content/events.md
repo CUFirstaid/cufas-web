@@ -12,13 +12,13 @@ menu:
 
 We take on a wide range of events, including most May Balls and June Events, giving you a great way to get in and experience the atmosphere of some of the country’s most exclusive events.
 
-Cambridge Universities Unit also provides cover for the Lent and May Bumps; if you train up as a cycle responder you’ll get a great view of the action!
+St John Ambulance also provides cover for the Lent and May Bumps; if you train up as a cycle responder you’ll get a great view of the action!
 
-Our members also get the opportunity to help with regionally and nationally organised duties. Recently, these have included the London Marathon, Wimbledon, Brighton Pride and the RiZE Festival (formerly V Festival).
+Our members also get the opportunity to help with regionally and nationally organised duties. Recently, these have included the London Marathon, Wimbledon and Pride events. 
 
 ## May week
 
-May Week is the biggest week of the year for Cambridge Universities Unit as we cover the vast majority of the balls that are put on. This means we are often covering 4 events in a night. We recruit doctors and other HCPs to come from far afield and help us with this coverage. This provides an excellent opportunity to work closely alongside them and learn from them.
+May Week is the biggest week of the year for Cambridge Universities Unit as we cover the vast majority of the balls that are put on. This means we are often covering 4 events in a night. We recruit doctors and other HCPs to come from far afield and help us with this coverage. This provides an excellent opportunity to work closely alongside experienced healthcare professionals. 
 
 ## Event Cover For Event Organisers
 

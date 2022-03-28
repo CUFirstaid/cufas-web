@@ -5,7 +5,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
     description = "CUFAS is a student society open to members from Cambridge University and Anglia Ruskin University. We are a SJA Cambridge Universities Unit."
-    committee_start_year = 2021
+    committee_start_year = 2022
 
 [menu]
 

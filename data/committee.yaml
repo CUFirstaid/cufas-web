@@ -1,5 +1,5 @@
 - position: Chair
-  image: images/committee/esmae.png
+  image: 
   name: Oscar Hill
   description: The chair is responsible for the overall running of the unit.  Please address all serious issues and complaints, including those of a potentially sensitive or confidential nature, to the Chair. You may also just say hello.
   email: chair
@@ -34,7 +34,7 @@
   mobile:
 
 - position: Treasurer
-  image: images/committee/elisabeth.png
+  image: 
   name: Tom Peretz
   description: The Treasurer is responsible for managing the finances for CUFAS. Contact Tom regarding internal financial matters, membership payments for CUFAS and reimbursement of expenses. Tom has the money!
   email: treasurer
@@ -48,21 +48,21 @@
   mobile:
 
 - position: Publicity Officer
-  image: images/committee/emma.png
+  image: 
   name: Vacant
   description: The Publicity Officer takes charge of CUFAS and Cambridge Universities Unit's online presence, including our Facebook and Twitter accounts. Whenever there's a story to be told, they will be on it - maybe one of their posts led you to us?
   email: publicity
   mobile:
 
-- position: General Committee Member Megan
-  image: images/committee/ross.png
+- position: General Committee Member
+  image: 
   name: Megan Chong
   description: The general committee members help the rest of the committee to do their jobs. Whether that is helping while others are particularly busy or by leading important tasks like our annual Majax. They do things. Generally.
   email: general
   mobile:
   
-  - position: General Committee Member Adrian
-  image: images/committee/ross.png
+- position: General Committee Member
+  image: 
   name: Adrian Ho
   description: The general committee members help the rest of the committee to do their jobs. Whether that is helping while others are particularly busy or by leading important tasks like our annual Majax. They do things. Generally.
   email: general

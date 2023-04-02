@@ -1,9 +1,9 @@
 - position: Chair
   image: images/committee/esmae.png
-  name: Esmae Woods
+  name: Oscar Hill
   description: The chair is responsible for the overall running of the unit.  Please address all serious issues and complaints, including those of a potentially sensitive or confidential nature, to the Chair. You may also just say hello.
   email: chair
-  mobile: 07894 937364
+  mobile: 
 
 - position: Events Co-ordinator
   image: images/committee/jinjue.png
@@ -28,35 +28,42 @@
 
 - position: Secretary
   image:
-  name: Vacant
+  name: Ffion Wright
   description: The Secretary is responsible for the public face of both St John Ambulance Cambridge Universities Unit and CUFAS. This includes arranging our presence at Freshers’ Fairs and other recruitment events, managing our online presence, and organising our amazing social events.
   email: secretary
   mobile:
 
 - position: Treasurer
   image: images/committee/elisabeth.png
-  name: Lizzie Jones
-  description: The Treasurer is responsible for managing the finances for CUFAS. Contact Kelly regarding internal financial matters, membership payments for CUFAS and reimbursement of expenses. Lizzie has the money!
+  name: Tom Peretz
+  description: The Treasurer is responsible for managing the finances for CUFAS. Contact Tom regarding internal financial matters, membership payments for CUFAS and reimbursement of expenses. Tom has the money!
   email: treasurer
   mobile:
 
 - position: Webmaster
   image:
-  name: Vacant
+  name: Tianyi Xiao
   description: The Webmaster is responsible for generally managing the website, Facebook group and various pieces of infrastructure the committee uses to make things happen. CUFAS has the technology, and they have the passwords.
   email: webmaster
   mobile:
 
 - position: Publicity Officer
   image: images/committee/emma.png
-  name: Emma Dinnage
-  description: The Publicity Officer takes charge of CUFAS and Cambridge Universities Unit's online presence, including our Facebook and Twitter accounts. Whenever there's a story to be told, Emma will be on it - maybe one of their posts led you to us?
+  name: Vacant
+  description: The Publicity Officer takes charge of CUFAS and Cambridge Universities Unit's online presence, including our Facebook and Twitter accounts. Whenever there's a story to be told, they will be on it - maybe one of their posts led you to us?
   email: publicity
   mobile:
 
 - position: General Committee Member
   image: images/committee/ross.png
-  name: Ross Clarke
+  name: Megan Chong
+  description: The general committee members help the rest of the committee to do their jobs. Whether that is helping while others are particularly busy or by leading important tasks like our annual Majax. They do things. Generally.
+  email: general
+  mobile:
+  
+  - position: General Committee Member
+  image: images/committee/ross.png
+  name: Adrian Ho
   description: The general committee members help the rest of the committee to do their jobs. Whether that is helping while others are particularly busy or by leading important tasks like our annual Majax. They do things. Generally.
   email: general
   mobile:

@@ -6,15 +6,15 @@
   mobile: 
 
 - position: Events Co-ordinator
-  image: images/committee/jinjue.png
-  name: JinJue Lin
+  image: 
+  name: Margaux Forner
   description: Our Events Co-Ordinator is responsible for arranging first aid cover. Keep an eye out for her weekly emails of available duties and let her know what you can cover. Keep JinJue smiling and go on duties!
   email: events
   mobile:
 
 - position: Stores & Equipment Manager
   image:
-  name: Vacant
+  name: William Audis
   description: Our Stores & Equipment Manager organises the purchasing and upkeep of our training and medical equipment. If we need something, they get it!
   email: equipment
   mobile:
@@ -64,6 +64,20 @@
 - position: General Committee Member
   image: 
   name: Adrian Ho
+  description: The general committee members help the rest of the committee to do their jobs. Whether that is helping while others are particularly busy or by leading important tasks like our annual Majax. They do things. Generally.
+  email: general
+  mobile:
+
+- position: General Committee Member
+  image: images/committee/esmae.png
+  name: Esmae Woods
+  description: The general committee members help the rest of the committee to do their jobs. Whether that is helping while others are particularly busy or by leading important tasks like our annual Majax. They do things. Generally.
+  email: general
+  mobile:
+
+- position: General Committee Member
+  image: images/committee/emma.png
+  name: Emma Dinnage
   description: The general committee members help the rest of the committee to do their jobs. Whether that is helping while others are particularly busy or by leading important tasks like our annual Majax. They do things. Generally.
   email: general
   mobile:

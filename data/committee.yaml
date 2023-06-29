@@ -27,7 +27,7 @@
   mobile:
 
 - position: Secretary
-  image:
+  image:images/committee/Ffion.jpeg
   name: Ffion Wright
   description: The Secretary is responsible for the public face of both St John Ambulance Cambridge Universities Unit and CUFAS. This includes arranging our presence at Freshers’ Fairs and other recruitment events, managing our online presence, and organising our amazing social events.
   email: secretary
@@ -69,7 +69,7 @@
   mobile:
 
 - position: General Committee Member
-  image: images/committee/esmae.png
+  image: images/committee/Esmae2023.jpeg
   name: Esmae Woods
   description: The general committee members help the rest of the committee to do their jobs. Whether that is helping while others are particularly busy or by leading important tasks like our annual Majax. They do things. Generally.
   email: general

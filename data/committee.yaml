@@ -21,13 +21,13 @@
   
 - position: Training Lead
   image:
-  name: Vacant
+  name: Megan Chong
   description: On the CUFAS side, our Training Lead is responsible for organising our Tuesday meetings and informal training to other societies and groups. On the SJA  side, they are responsible for organising the training of our members. Numerous SJA courses will regularly be advertised to our members via our internal mailing lists. Please keep an eye out for these, or contact them for any course you are interested in.
   email: training
   mobile:
 
 - position: Secretary
-  image:images/committee/Ffion.jpeg
+  image: images/committee/Ffion.jpeg
   name: Ffion Wright
   description: The Secretary is responsible for the public face of both St John Ambulance Cambridge Universities Unit and CUFAS. This includes arranging our presence at Freshers’ Fairs and other recruitment events, managing our online presence, and organising our amazing social events.
   email: secretary
@@ -54,13 +54,6 @@
   email: publicity
   mobile:
 
-- position: General Committee Member
-  image: 
-  name: Megan Chong
-  description: The general committee members help the rest of the committee to do their jobs. Whether that is helping while others are particularly busy or by leading important tasks like our annual Majax. They do things. Generally.
-  email: general
-  mobile:
-  
 - position: General Committee Member
   image: 
   name: Adrian Ho

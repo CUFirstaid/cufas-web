@@ -10,7 +10,7 @@
   description: Our termcard for Michaelmas term 2023.
   button: Download the termcard
   button_link: pdfs/CUFAS_termcard_2023.pdf
-  image: pdfs/CUFAS_termcard_2023.pdf
+  image: images/snapshot_termcard_2023.png
 
 - heading: Training
   description: We provide first-aid training for SJA members and first aid outreach to non-members.

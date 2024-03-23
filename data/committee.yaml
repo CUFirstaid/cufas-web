@@ -1,34 +1,34 @@
 - position: Chair
   image: 
-  name: Oscar Hill
+  name: Adrian Ho
   description: The chair is responsible for the overall running of the unit.  Please address all serious issues and complaints, including those of a potentially sensitive or confidential nature, to the Chair. You may also just say hello.
   email: chair
   mobile: 
 
 - position: Events Co-ordinator
   image: 
-  name: Margaux Forner
+  name: Vacant
   description: Our Events Co-Ordinator is responsible for arranging first aid cover. Keep an eye out for her weekly emails of available duties and let her know what you can cover. Keep JinJue smiling and go on duties!
   email: events
   mobile:
 
 - position: Stores & Equipment Manager
   image:
-  name: William Audis
+  name: Vacant
   description: Our Stores & Equipment Manager organises the purchasing and upkeep of our training and medical equipment. If we need something, they get it!
   email: equipment
   mobile:
   
 - position: Training Lead
   image:
-  name: Megan Chong
+  name: Tallis Inger Flecker
   description: On the CUFAS side, our Training Lead is responsible for organising our Tuesday meetings and informal training to other societies and groups. On the SJA  side, they are responsible for organising the training of our members. Numerous SJA courses will regularly be advertised to our members via our internal mailing lists. Please keep an eye out for these, or contact them for any course you are interested in.
   email: training
   mobile:
 
 - position: Secretary
-  image: images/committee/Ffion.jpeg
-  name: Ffion Wright
+  image: 
+  name: Ben Holmes
   description: The Secretary is responsible for the public face of both St John Ambulance Cambridge Universities Unit and CUFAS. This includes arranging our presence at Freshers’ Fairs and other recruitment events, managing our online presence, and organising our amazing social events.
   email: secretary
   mobile:
@@ -41,36 +41,30 @@
   mobile:
 
 - position: Webmaster
-  image: images/committee/tianyi.jpg
-  name: Tianyi Xiao
+  image: 
+  name: Vacant
   description: The Webmaster is responsible for generally managing the website, Facebook group and various pieces of infrastructure the committee uses to make things happen. CUFAS has the technology, and they have the passwords.
   email: webmaster
   mobile:
 
 - position: Publicity Officer
   image: 
-  name: Vacant
+  name: Vic Qiu
   description: The Publicity Officer takes charge of CUFAS and Cambridge Universities Unit's online presence, including our Facebook and Twitter accounts. Whenever there's a story to be told, they will be on it - maybe one of their posts led you to us?
   email: publicity
   mobile:
 
 - position: General Committee Member
   image: 
-  name: Adrian Ho
+  name: Oscar Hill
   description: The general committee members help the rest of the committee to do their jobs. Whether that is helping while others are particularly busy or by leading important tasks like our annual Majax. They do things. Generally.
   email: general
   mobile:
 
 - position: General Committee Member
   image: images/committee/Esmae2023.jpeg
-  name: Esmae Woods
+  name: Heather Olsen
   description: The general committee members help the rest of the committee to do their jobs. Whether that is helping while others are particularly busy or by leading important tasks like our annual Majax. They do things. Generally.
   email: general
   mobile:
 
-- position: General Committee Member
-  image: images/committee/emma.png
-  name: Emma Dinnage
-  description: The general committee members help the rest of the committee to do their jobs. Whether that is helping while others are particularly busy or by leading important tasks like our annual Majax. They do things. Generally.
-  email: general
-  mobile:

@@ -5,7 +5,7 @@ title: Training
 
 ## For SJA members
 
-For members of the Cambridge Universities Unit and the wider Cambridge Network, St John runs a series of first aid courses, including Community First Aider (CFA), Emergency Responder (ER), and Emergency Ambulance Crew (EAC) courses. For more information, you can [email our training lead](contact).
+For members of the Cambridge Universities Unit and the wider Cambridge Network, St John runs a series of first aid courses, including Community First Aider (CFA), Emergency Responder (ER), and Emergency Ambulance Crew (EAC) courses. For more information, you can [email our training lead](mailto:firstaid-training@srcf.net).
 
 The Community First Aider course involves 2 days of in-person training, usually on weekends, and 10 hours of self-directed e-learning. It covers topics like primary and secondary survey, CPR, and the recovery position. In return for this training, St John Ambulance requires 80 hours of Community Engagement or Event Activity per year. More details on the role are available [here](https://www.sja.org.uk/get-involved/volunteer-opportunities/volunteer-roles/Community-First-Aider/).
 
@@ -17,7 +17,7 @@ For experienced ERs, the next step is the EAC course, where you qualify to crew 
 
 For course dates, SJA members should check MyTraining on SJA Connect. 
 
-If you’re interested in joining SJA, [sign up here](https://www.cufas.co.uk/become-member), and we’ll provide all the details. You can also [contact our training lead](https://www.cufas.co.uk/training/contact) with specific questions.
+If you’re interested in joining SJA, [sign up here](https://www.cufas.co.uk/become-member), and we’ll provide all the details. You can also [contact our training lead](mailto:firstaid-training@srcf.net) with specific questions.
 
 Full details of current St John Ambulance voluntary opportunities are available [here](https://www.sja.org.uk/get-involved/volunteer-opportunities/volunteer-roles/).
 

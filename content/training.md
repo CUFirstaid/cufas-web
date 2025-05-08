@@ -5,18 +5,22 @@ title: Training
 
 ## For SJA members
 
-For members of Cambridge Universities Unit (and St John Ambulance members from neighbouring units), St John runs a series of first aid courses, known as the First Aider (FA), Advanced First Aider (AFA) and Emergency Ambulance Crew (EAC) courses. For more information you can [email our training lead](contact).
+For members of the Cambridge Universities Unit and the wider Cambridge Network, St John runs a series of first aid courses, including Community First Aider (CFA), Emergency Responder (ER), and Emergency Ambulance Crew (EAC) courses. For more information, you can [email our training lead](contact).
 
-New members usually start with the four day FA course, run on weekends, where you’ll learn all the first aid you need to be effective at events (you should always be on duty in a pair, and we’ll pair you with someone experienced while you learn the ropes!), and to volunteer in hospitals. The course includes CPR, primary and secondary surveys, asthma, poisons, allergic reactions, burns, joint injuries, bleeds, foreign objects and more.
+The Community First Aider course involves 2 days of in-person training, usually on weekends, and 10 hours of self-directed e-learning. It covers topics like primary and secondary survey, CPR, and the recovery position. In return for this training, St John Ambulance requires 80 hours of Community Engagement or Event Activity per year. More details on the role are available [here](https://www.sja.org.uk/get-involved/volunteer-opportunities/volunteer-roles/Community-First-Aider/).
 
-Once you’re an experienced FA, you may choose to take the AFA course, which allows you to do some really advanced stuff! You’ll be able to administer gases such as oxygen and entonox, measure blood pressures, blood sugar and oxygen levels, carry out airway management and to treat/manage spinal injuries. It also allows you to train as a cycle responder.
+You may also choose to become an Emergency Responder, which involves 48 hours of face-to-face learning over 6 days and 16 hours of self-directed learning. This training allows you to administer gases like oxygen and Entonox, measure blood pressures, blood sugar, and oxygen levels, manage airways, and treat spinal injuries. You can also train as a cycle responder or a medical response team member. More details are available [here](https://www.sja.org.uk/get-involved/volunteer-opportunities/volunteer-roles/Emergency-Responder/). As an ER, you are expected to complete 100 hours of voluntary event cover per year.
 
-For experienced AFAs, the next clinical step is an EAC course, where you qualify to crew an ambulance. You'll learn how to take  more thorough patient surveys, additional anatomical knowledge and training in the use of ambulance equipment, including trolleys, scoop stretchers and familiarisation with advanced equipment should you be on duty with a paramedic. You can now also join SJA directly as an EAC and be training to crew ambulances from scratch with no prior knowledge. 
+For experienced ERs, the next step is the EAC course, where you qualify to crew an ambulance. This includes thorough patient surveys, additional anatomical knowledge, and training in the use of ambulance equipment like trolleys and scoop stretchers. Recruitment to this role is currently unavailable. 
 
-But not all SJA volunteers stop at first aiding – once you’ve joined, additional courses are available in running radio control at events, giving training sessions, driving vehicles on events, cycle responding and patient extrication, to name just a few!
+For experienced ERs, the next step is the EAC course, where you qualify to crew an ambulance. This includes thorough patient surveys, additional anatomical knowledge, and training in the use of ambulance equipment like trolleys and scoop stretchers. Recruitment to this role is currently unavailable.
 
-For details about when these different courses are, SJA members should check MyTraining on SJA Connect. If you’re interested in joining SJA, [sign-up here](https://www.cufas.co.uk/become-member) and we’ll get in touch with all the details. You’re always welcome to [contact our training lead](contact) if you have specific questions.
+For course dates, SJA members should check MyTraining on SJA Connect. 
+
+If you’re interested in joining SJA, [sign up here](https://www.cufas.co.uk/become-member), and we’ll provide all the details. You can also [contact our training lead](https://www.cufas.co.uk/training/contact) with specific questions.
+
+Full details of current St John Ambulance voluntary opportunities are available [here](https://www.sja.org.uk/get-involved/volunteer-opportunities/volunteer-roles/).
 
 ## For non-members
 
-We do not offer accrediated first aid courses to individuals who are not members of St John Ambulance. However, we run ad-hoc first aid sessions to help educate people in first aid - if you're interested get in touch.  We reccomend that individuals who are seeking a first aid qualification for use exclusively outside of St John contact the [St John Ambulance commercial training team](http://www.sja.org.uk/courses). They are able to offer a wide range of courses and qualifications including first aid, fire marshalling and health and safety.
+We do not offer accredited first aid courses to non-members. However, we run ad-hoc first aid sessions to educate people in first aid. If you’re interested, get in touch. For formal qualifications, contact the [St John Ambulance commercial training team](https://www.sja.org.uk/courses), which offers a wide range of courses, including first aid, fire marshalling, and health and safety.

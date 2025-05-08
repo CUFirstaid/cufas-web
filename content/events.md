@@ -30,8 +30,11 @@ St John Ambulance is able to provide first aid cover for events, ranging from sm
 
 ### How can I arrange First Aid cover for my event?
 
-Just head to [this form](https://www.sja.org.uk/what-we-do/our-first-aid-services/event-first-aid-cover/dips-form/) on the St John Ambulance website.
+Just head to [this form](https://www.sja.org.uk/what-we-do/our-first-aid-services/event-first-aid-cover/dips-form/) on the St John Ambulance website. 
 
+To ensure that all event-related enquiries are handled smoothly and efficiently, we kindly ask that they be submitted through the designated portal above/below rather than reaching out to committee members directly. This system is designed to help us manage requests effectively and provide timely responses. 
+
+Please note that we are unable to respond to enquiries made outside. Thank you for your understanding and cooperation - we appreciate it!
 
 ### Do I need first aid cover?
 

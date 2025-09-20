@@ -13,8 +13,6 @@ You may also choose to become an Emergency Responder, which involves 48 hours of
 
 For experienced ERs, the next step is the EAC course, where you qualify to crew an ambulance. This includes thorough patient surveys, additional anatomical knowledge, and training in the use of ambulance equipment like trolleys and scoop stretchers. Recruitment to this role is currently unavailable. 
 
-For experienced ERs, the next step is the EAC course, where you qualify to crew an ambulance. This includes thorough patient surveys, additional anatomical knowledge, and training in the use of ambulance equipment like trolleys and scoop stretchers. Recruitment to this role is currently unavailable.
-
 For course dates, SJA members should check MyTraining on SJA Connect. 
 
 If you’re interested in joining SJA, [sign up here](https://www.cufas.co.uk/become-member), and we’ll provide all the details. You can also [contact our training lead](mailto:firstaid-training@srcf.net) with specific questions.

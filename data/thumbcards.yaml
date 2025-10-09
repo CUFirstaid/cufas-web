@@ -9,7 +9,7 @@
 - heading: Termcard
   description: Our termcard for Michaelmas term 2025-26.
   button: Download the termcard
-  button_link: pdfs/Easter 2025 - CUFAS Term Card.pdf
+  button_link: static/images/cufas_termcard_MT25.jpg
   image: images/cufas_termcard_MT25.jpg
 
 - heading: Training
